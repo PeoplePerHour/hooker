@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/zekus/hooker.svg)](https://travis-ci.org/zekus/hooker)
 
-Hooker: a GitHub Puppet Hook
+Hooker: a GitHub Puppet Hook 
 ======================================
 
 This hooker is a rack application that will automatically create puppet environments based on the branches present in your puppet repository when receive an hook from github.
